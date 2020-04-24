@@ -15,6 +15,9 @@
 
 
 wisdom = [
+  "Richard Stallman's house has no Windows." 
+  "If someday everything becomes free, Richard Stallman will still be more free than others."
+  "RMS Titanic sank but the real RMS always floats."
   "Richard Stallman takes notes in binary."
   "Richard Stallman doesn't need sudo. I will make him a sandwich anyway."
   "Richard Stallman is my shephurd, and I am his GNU."
